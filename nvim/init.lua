@@ -1,3 +1,4 @@
 require("plugins.plugins")
 require("config.settings")
-require("plugins.lspconfig")
+require("plugins.plugins_config")
+require("keymap")
