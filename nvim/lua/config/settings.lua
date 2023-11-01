@@ -5,7 +5,3 @@ vim.cmd([[set relativenumber]])
 vim.cmd([[set mouse=a]])
 
 vim.cmd[[colorscheme catppuccin-frappe]]
-
-require('lualine').setup()
-require('plugins.config.telescope')
-
